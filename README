@@ -1,0 +1,15 @@
+# Instruções Básicas
+
+1. Execute o comando:
+   ```
+   composer install
+   ```
+
+2. Faça um POST para a URL:
+http://localhost/teste_tecnico_inovafood_2024/
+
+3. No corpo da requisição, selecione Multipart e envie o arquivo com o nome file.
+
+
+
+Obs: Dentro da pasta "imgs" tem alguns prints do projeto funcionando.
