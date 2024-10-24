@@ -8,7 +8,7 @@
 2. Faça um POST para a URL:
 http://localhost/teste_tecnico_inovafood_2024/
 
-3. No corpo da requisição, selecione Multipart e envie o arquivo com o nome file.
+3. No corpo da requisição, selecione Multipart e envie o arquivo com o nome do campo file e a frente o arquivo.
 
 
 
